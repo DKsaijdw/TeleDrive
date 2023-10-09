@@ -14,7 +14,7 @@ then
 
   ENV="develop"
 
-  echo "Preparing your keys from https://my.telegram.org/"
+  echo "Prepar ing your key s from https://my.telegram.org/"
   read -p "Enter your TG_API_ID: " TG_API_ID
   read -p "Enter your TG_API_HASH: " TG_API_HASH
 
