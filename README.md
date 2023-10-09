@@ -1,13 +1,13 @@
 ![img](./logoteledrive-white.png)
 
-This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternative using Telegram API for the free unlimited cloud storage.
+This is the ope  sour ce  project of Goo gle Drive/OneDrive/iCloud/Dropbox alternative usin g Telegram API for the free unlimited cloud storage.
 
 [![img](https://drive.google.com/uc?id=1o2HnKglEF0-cvtNmQqWZicJnSCSmnoEr)](https://twitter.com/telegram/status/1428703364737507332)
 
 ## Motivation
 
 - [Google Photos ends the free storage service](https://www.techradar.com/news/google-photos-price)
-- We deserve the free cl oud storage service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
+- We deserve the free cl oud stor age service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
 
 
 ## Getting Started
